@@ -39,14 +39,6 @@ amount_usd = 100
 amount_eur = converter.convert(amount_usd, 'USD', 'EUR')
 
 print(f"{amount_usd} USD is equal to {amount_eur} EUR")
-Troubleshooting
-If users encounter any common issues or errors while using your application, you can provide troubleshooting tips or solutions here.
 
-##Limitations
-As the currency rates are integrated using api, updates may take time.
-
-##License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-##Contact Information
+Contact Information
 For any inquiries or support, please contact Siddhi Awari at siddhi.awari@gmail.com.
