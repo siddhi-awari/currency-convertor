@@ -6,7 +6,7 @@ This Currency Converter project is a Python-based application that allows users 
 
 - **Currency Conversion:** Convert between various currencies accurately.
 - **Real-Time Exchange Rates:** Utilizes real-time exchange rate data to ensure accuracy and reliability.
-- **User-Friendly Interface:** Simple command-line interface (CLI) for ease of use.
+- **User-Friendly GUI:** Intuitive graphical user interface for ease of use.
 
 ## Requirements
 
