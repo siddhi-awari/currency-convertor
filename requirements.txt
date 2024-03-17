@@ -1,0 +1,4 @@
+tkinter
+customtkinter
+forex_python
+matplotlib 
